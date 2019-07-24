@@ -1,0 +1,15 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+// Ionicons
+@import '~iconfonts/stylesheets/ionicons';
+@import '~ionicons/dist/scss/ionicons';
+
+$ionicons-font-path: "~ionicons/dist/fonts";
+@import '~ionicons/dist/scss/ionicons.scss';
